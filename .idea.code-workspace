@@ -1,0 +1,11 @@
+{
+    // esse é um arquivo de configuração do vscode que define quais pastas fazem parte do projeto
+    "folders": [
+        {
+            "path": "../ProjetoIntegrador3-main/.idea"
+        },
+        {
+            "path": "../ProjetoIntegrador3-main/ControleDeRiscos"
+        }
+    ]
+}
